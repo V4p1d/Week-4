@@ -1,0 +1,2 @@
+# Write a function that, given a list as an input, returns as output a random element of this list.
+# Use the random module that was used in an exercise in the previous week to generate the random number
